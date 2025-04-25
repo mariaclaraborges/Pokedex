@@ -1,57 +1,56 @@
-# Pokédex - Primeira Geração
+# 📱 Pokedex App
 
-Este é um aplicativo mobile desenvolvido em Flutter que exibe uma Pokédex com os 150 primeiros Pokémon da franquia. O app conta com integração ao Firebase para autenticação de usuários.
+Aplicativo mobile criado com Flutter que traz uma Pokédex com os 150 Pokémon iniciais da franquia. O app possui autenticação de usuários integrada ao Firebase.
 
-## 🔥 Funcionalidades
+## ⚙️ Recursos Disponíveis
 
-- Listagem dos 150 primeiros Pokémon
+- Visualização dos 150 primeiros Pokémon da série
 - Tela de login com autenticação via Firebase
-- Interface amigável com Material Design
+- Design moderno seguindo os padrões do Material Design
 
-## 🚀 Tecnologias utilizadas
+## 🛠️ Tecnologias Empregadas
 
-- **Flutter**: Framework para desenvolvimento mobile multiplataforma.
-- **Dart**: Linguagem de programação utilizada pelo Flutter.
+- **Flutter**: Framework para construção de aplicações mobile nativas para Android e iOS.
+- **Dart**: Linguagem principal usada no desenvolvimento com Flutter.
 - **Firebase**:
-  - Firebase Authentication
-  - Firebase Core
+  - Autenticação de usuários (Firebase Authentication)
+  - Integração com os serviços principais (Firebase Core)
 
+## ▶️ Como Rodar o Projeto
 
-## 🧠 Como executar
+1. **Clone o repositório em sua máquina:**
 
-**Clone este repositório:**
-
-git clone https://github.com/alyson-monteiro/Pokedex
+```bash
+git clone https://github.com/mariaclaraborges/Pokedex.git
 cd pokedex-flutter
+```
 
-**Instale as dependências:**
+2. **Instale os pacotes necessários:**
+
+```bash
 flutter pub get
+```
 
-**Execute o projeto:**
+3. **Inicie o aplicativo:**
+
+```bash
 flutter run
+```
 
-## ✨ Capturas de Tela
-![login](https://github.com/user-attachments/assets/0afd9951-3e81-4359-8692-dceae8b77200)
+## 🖼️ Prévia do Aplicativo
 
-![cadastro](https://github.com/user-attachments/assets/f403de53-b6da-48cd-add8-13bb3f389909)
-
-![pokedex](https://github.com/user-attachments/assets/ca34f4d4-f1d0-4370-bc55-ba8ab5914788)
-
-![dragonite](https://github.com/user-attachments/assets/4d3a8d0d-ce62-41d0-89e9-287f6a183b43)
-
-## 🚀 Realize o Teste
-link para teste na web: https://preview.flutlab.io/alyson_monteiro/pokedex/
-
-## 📄 Licença
-Projeto feito para fins academicos.
+![1](https://github.com/user-attachments/assets/e796d93b-3093-493c-8868-1f87f1f5539c)
+![2](https://github.com/user-attachments/assets/de5ffd9b-10c5-4b07-9233-0a645a4bfdec)
+![3](https://github.com/user-attachments/assets/01d09534-a8fb-4c11-b872-33029a39cf66)
+![4](https://github.com/user-attachments/assets/786735d9-c399-433f-92f1-b44b7e24b4be)
+![5](https://github.com/user-attachments/assets/0b8220ca-d5ff-49f1-9902-4ca073dc91d7)
 
 
+## 🌐 Teste Online
 
+Acesse a versão web por meio do link: https://preview.flutlab.io/maria7/pokedex/
 
+## 📘 Licença
 
-
-
-
-
-
+Este projeto foi desenvolvido com propósito educacional.
 
